@@ -17,5 +17,5 @@ task list
 - [ ] 50K
 - [ ] 100K
 - [ ] 150K
-hOLLA at the plug @github(Trimagassi-98)
+hOLLA at the plug @github_/Trimagassi-98
 
